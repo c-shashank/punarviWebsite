@@ -1,0 +1,16 @@
+{
+  "name": "punarvi-website",
+  "version": "1.0.0",
+  "description": "Punarvi Ayurveda - Organic All Natural Ayurvedic Products Website",
+  "scripts": {
+    "deploy": "npx wrangler pages deploy ."
+  },
+  "keywords": [
+    "ayurveda",
+    "organic",
+    "static-site"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+

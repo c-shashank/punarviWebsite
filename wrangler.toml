@@ -1,6 +1,5 @@
 name = "punarvi-website"
 compatibility_date = "2024-01-01"
-main = "worker.js"
 
-[site]
-bucket = "."
+# For Cloudflare Pages deployment
+# Use command: npx wrangler pages deploy .
