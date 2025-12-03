@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Punarvi Ayurveda - Organic All Natural Ayurvedic Products Website",
   "scripts": {
-    "deploy": "npx wrangler pages deploy ."
+    "deploy": "wrangler pages deploy ."
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
   },
   "keywords": [
     "ayurveda",
